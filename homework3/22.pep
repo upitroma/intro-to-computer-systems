@@ -1,14 +1,10 @@
-ldba 76,i
+ldba 74,i
 stba 0xFC16,d
-ldba 97,i
+ldba 111,i
+stba 0xFC16,d
+ldba 104,i
 stba 0xFC16,d
 ldba 110,i
-stba 0xFC16,d
-ldba 100,i
-stba 0xFC16,d
-ldba 105,i
-stba 0xFC16,d
-ldba 115,i
 stba 0xFC16,d
 stop
 .end

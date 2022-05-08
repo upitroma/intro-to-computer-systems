@@ -1,0 +1,10 @@
+LDBA 'J',i
+STBA 0xFC16,d
+LDBA 'o',i
+STBA 0xFC16,d
+LDBA 'h',i
+STBA 0xFC16,d
+LDBA 'n',i
+STBA 0xFC16,d
+STOP
+.END
